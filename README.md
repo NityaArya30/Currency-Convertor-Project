@@ -2,9 +2,9 @@
 A simple currency converter tool built in ReactJs Framework.
 
 ## Features
--  ⁠Converts the amount from any currency to another according to user's needs.
--  The present currency and the converted currency can be swapped.
--  ⁠User-friendly interface.
+- ⁠Converts the amount from any currency to another according to user's needs.
+- The present currency and the converted currency can be swapped.
+- ⁠User-friendly interface.
 
  ## Installation
 1.⁠ ⁠Clone the repository.
